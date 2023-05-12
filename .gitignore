@@ -198,6 +198,9 @@ secret_key.txt
 settings.py
 local_settings.py
 
+.env
+venv
+htmlcov
 
 secret_key.txt
 settings.py
